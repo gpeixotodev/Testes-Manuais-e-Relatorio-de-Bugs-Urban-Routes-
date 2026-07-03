@@ -2,7 +2,4 @@ Descrição: Elaboração de casos de teste funcionais para aplicação web, exe
 
 Tecnologias/Ferramentas:
 
-Testes Manuais
-Jira
-Google Sheets
-Test Design
+Testes Manuais, Jira, Google Sheets, Test Design
