@@ -30,8 +30,13 @@ Metodologia
 Testes manuais baseados em requisitos, seguindo fluxo de criação de casos de teste, execução, evidência e abertura de bugs.
 
 Como executar:
+
 1- Ler os requisitos.
+
 2- Elaborar os casos de teste.
+
 3- Executar cada cenário.
+
 4- Registrar evidências.
+
 5- Abrir bugs encontrados no Jira.
