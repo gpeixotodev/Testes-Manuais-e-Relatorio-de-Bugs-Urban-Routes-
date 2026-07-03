@@ -1,42 +1,39 @@
-Descrição do projeto
+Projeto 1 – Testes Funcionais e Relatórios de Bugs (Urban Routes)
 
-Primeiro contato com o processo de Quality Assurance, realizando análise dos requisitos de uma aplicação web, elaboração de casos de teste e registro estruturado de bugs encontrados durante a validação das funcionalidades.
+Descrição do projeto:
 
-Objetivo
+- Projeto voltado à validação funcional da aplicação web Urban Routes, envolvendo a criação e execução de casos de teste, identificação de falhas e documentação de bugs para garantir o correto funcionamento das funcionalidades.
 
-Desenvolver a capacidade de analisar requisitos, identificar inconsistências e documentar defeitos utilizando boas práticas de QA.
+1. Objetivo do projeto
 
-Resultado
+- Validar as funcionalidades da aplicação por meio de testes manuais, verificando sua conformidade com os requisitos e registrando os defeitos encontrados.
 
-Foram produzidos casos de teste, relatórios de bugs e documentação dos problemas encontrados na aplicação, garantindo rastreabilidade entre requisito, teste e defeito.
+2. Resultado
 
-Ferramentas utilizadas
-Google Sheets
-Jira
-Navegador Web
-Documentação de requisitos
-O que aprendi
-Escrita de casos de teste
-Criação de relatórios de bugs
-Técnicas de teste manual
-Análise de requisitos
-Comunicação clara de defeitos
-Pensamento crítico durante a validação
-Melhorias possíveis
-Automatização dos testes funcionais.
-Ampliação da cobertura utilizando técnicas de particionamento de equivalência e análise de valor limite.
-Metodologia
+- Foram executados casos de teste em diferentes funcionalidades da aplicação, identificando e documentando bugs de forma estruturada, contribuindo para a melhoria da qualidade do software.
 
-Testes manuais baseados em requisitos, seguindo fluxo de criação de casos de teste, execução, evidência e abertura de bugs.
+3. Ferramentas utilizadas
 
-Como executar:
+- Microsoft Excel;
+- Casos de Teste (Test Cases);
+- Relatórios de Bugs (Bug Reports);
+- Testes Funcionais e Exploratórios.
 
-1- Ler os requisitos.
+4. O que você aprendeu (habilidades/competências adquiridas)
 
-2- Elaborar os casos de teste.
+- Elaboração e execução de casos de teste;
+- Identificação e documentação de bugs;
+- Análise de requisitos;
+- Validação de interfaces web;
+- Organização da documentação de testes e atenção aos detalhes.
+5. Existem melhorias a serem feitas?
 
-3- Executar cada cenário.
+- Como evolução do projeto, seria interessante automatizar os testes com Selenium, utilizar ferramentas de gerenciamento de testes e ampliar a cobertura com testes de regressão e compatibilidade entre navegadores.
 
-4- Registrar evidências.
+- Metodologia
 
-5- Abrir bugs encontrados no Jira.
+- Levantamento dos requisitos, elaboração dos casos de teste, execução manual das validações, registro dos resultados e documentação dos defeitos encontrados.
+
+Como executar o projeto
+
+- Abrir a aplicação Urban Routes, seguir os casos de teste definidos, comparar o resultado obtido com o esperado e registrar eventuais falhas em um relatório de bugs.
