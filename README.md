@@ -19,7 +19,7 @@ Descrição do projeto:
 - Relatórios de Bugs (Bug Reports);
 - Testes Funcionais e Exploratórios.
 
-4. O que você aprendeu (habilidades/competências adquiridas)
+4. O que aprendi com esse projeto (habilidades/competências adquiridas)
 
 - Elaboração e execução de casos de teste;
 - Identificação e documentação de bugs;
